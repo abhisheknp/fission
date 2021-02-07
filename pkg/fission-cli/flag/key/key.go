@@ -149,5 +149,7 @@ const (
 	CanaryIncrementInterval = "increment-interval"
 	CanaryFailureThreshold  = "failure-threshold"
 
+	CheckPre = "pre"
+
 	DefaultSpecOutputDir = "fission-dump"
 )

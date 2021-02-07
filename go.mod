@@ -54,6 +54,7 @@ require (
 	github.com/wcharczuk/go-chart v2.0.1+incompatible
 	go.opencensus.io v0.22.4
 	go.uber.org/zap v1.10.0
+	golang.org/x/mod v0.3.0
 	golang.org/x/net v0.0.0-20201202161906-c7110b5ffcbb
 	gopkg.in/jcmturner/goidentity.v3 v3.0.0 // indirect
 	k8s.io/api v0.0.0-20190620084959-7cf5895f2711
